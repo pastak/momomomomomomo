@@ -21,6 +21,14 @@ body{
 article.infomation{
 	display : none;
 }
+h1{
+	line-height : 1em;
+}
+h2{
+	line-height : 0em;
+	margin-bottom : 1em;
+	color : #00bfff;
+}
 h3{
 	border-bottom : solid 3px #ff1493;
 }
