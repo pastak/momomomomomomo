@@ -17,6 +17,10 @@ body{
 	/* W3C Markup, IE10 Release Preview */ 
 	background-image: linear-gradient(to top, #FFFFFF 0%, #EFB8B6 600%);
 }
+#wraper{
+	margin:auto;
+	width : 95%;
+}
 
 article.infomation{
 	display : none;
@@ -36,7 +40,13 @@ h3:before{
 	content: url('momo_h3.png');
 }
 #contents{
-	width : 90%;
-	margin : auto;
+	width : 50%;
+	height : 100%;
+	margin-right : 2%;
+	float : left;
 	background : rgba(255,255,255,0.1);
+}
+#sidebar{
+	width:40%;
+	float:left;
 }
