@@ -50,3 +50,13 @@ h3:before{
 	width:40%;
 	float:left;
 }
+
+@media screen and (max-width : 620px) {
+	#sidebar{
+		width : 95%;
+		clear:both;
+	}
+	#contents{
+		width:95%;
+	}
+}
