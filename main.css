@@ -52,11 +52,16 @@ h3:before{
 }
 
 @media screen and (max-width : 700px) {
+	
+	#wraper{
+		width : 97%;
+	}
 	#sidebar{
-		width : 95%;
+		width : 97%;
 		clear:both;
 	}
 	#contents{
 		width:100%;
+		margin-right:auto;
 	}
 }
