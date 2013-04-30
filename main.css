@@ -19,6 +19,7 @@ body{
 }
 #wraper{
 	margin:auto;
+	margin-bottom : 2%;
 	width : 95%;
 }
 
@@ -43,6 +44,7 @@ h3:before{
 	width : 50%;
 	height : 100%;
 	margin-right : 2%;
+	margin-bottom : 3%;
 	float : left;
 	background : rgba(255,255,255,0.1);
 }
