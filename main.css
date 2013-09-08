@@ -24,7 +24,7 @@ body{
 }
 
 article.infomation{
-	display : none;
+	//display : none;
 }
 h1{
 	line-height : 1em;
